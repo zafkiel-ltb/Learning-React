@@ -1,0 +1,18 @@
+.customerGreet {
+  background-color: aquamarine;
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  height: 50px;
+  text-align: center;
+}
+
+
+.customerGreet2 {
+  background-color: rgb(161, 11, 11);
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  height: 50px;
+  text-align: center;
+}
