@@ -2,7 +2,7 @@ import React, {useState, useEffect, useRef} from "react";
 
 function MyComponent(){
     
-    const [timer, setTimer] = useState(0);
+  const [timer, setTimer] = useState(0);
   const timerRef = useRef(null);
 
   useEffect(() => {
